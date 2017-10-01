@@ -1,0 +1,19 @@
+{
+  "name": "typescript-td",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sweetalert": "^1.1.28",
+    "sweetalert": "^2.0.3",
+    "typescript": "^2.5.3"
+  }
+}
